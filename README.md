@@ -11,4 +11,4 @@
 
 #### Computer Vision Curriculum
 
-#### Natural Language Processing
+#### Natural Language Processing Curriculum
